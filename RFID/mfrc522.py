@@ -1,11 +1,3 @@
-3
-374
-375
-376
-377
-378
-379
-380
 from machine import Pin, SPI
 from os import uname
  
